@@ -4,7 +4,7 @@ I'm a Computer Science graduate who somehow ended up loving Linux enough to will
 
 🌱 **A little bit about me**
 
-I like building things more than collecting tutorials.
+I like building things more than collecting tutorials. [I am not a developer duh] 
 
 I like open source.
 
